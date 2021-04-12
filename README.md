@@ -1,2 +1,2 @@
 # IOS_Application
-Building a Basix IOS Application
+Building a Basic IOS Application
